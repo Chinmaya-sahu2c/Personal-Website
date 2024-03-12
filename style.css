@@ -1,0 +1,21 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+.About{
+    width: auto;
+    background-color: #e5e5e5;
+    display: flex;
+    
+    justify-content: space-around;
+    align-items: center;
+   }
+.about1{
+  width: 60%;
+  flex-direction: column;
+  justify-content: center;
+}
+.about2{
+  width: 40%;
+  align-items: center;
+}
